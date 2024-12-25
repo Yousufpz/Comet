@@ -5,7 +5,6 @@ import { useNavigate } from 'react-router-dom';
 const defaultSuggestions = [
   "Filter Your Transactions",
   "Check account balance",
-  "Transfer money Between Accounts ",
   "Issue new Card",
   "Send money To Recipients",
   "View transaction history",
