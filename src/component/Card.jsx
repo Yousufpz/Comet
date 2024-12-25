@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Card = () => {
+function Card() {
   return (
     <StyledWrapper>
       <div className="outer">
