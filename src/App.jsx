@@ -26,7 +26,7 @@ import {
 } from './component/FinancialComponents.jsx';
 import AppBar from './component/AppBar.jsx';
 import './App.css'
-import Card from './component/Card.jsx';
+import Card from './component/card.jsx';
 
 
 
