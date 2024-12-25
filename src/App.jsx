@@ -26,9 +26,8 @@ import {
 } from './component/FinancialComponents.jsx';
 import AppBar from './component/AppBar.jsx';
 import './App.css'
-import Pattern from './component/Pattern.jsx';
 import Card from './component/card.jsx';
-import HomepageButton from './component/HomepageButton.jsx';
+
 
 
 
