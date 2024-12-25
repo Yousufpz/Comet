@@ -26,7 +26,7 @@ import {
 } from './component/FinancialComponents.jsx';
 import AppBar from './component/AppBar.jsx';
 import './App.css'
-// import Card from './component/subcomponents/Card.jsx';
+import Card from './component/card.jsx';
 
 
 
@@ -38,7 +38,7 @@ function App() {
       <AppBar/>
     <div >
     <div>
-      {/* <Card/> */}
+      <Card/>
     </div>
     <BrowserRouter>
       <Routes>
